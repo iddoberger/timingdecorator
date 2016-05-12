@@ -10,7 +10,7 @@ from timimgdecorator.timeit import timeit
 @timeit
 def function_to_time():
     pass
-```python
+```
     
 
 
