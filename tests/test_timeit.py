@@ -10,3 +10,7 @@ class TestTimeit(unittest.TestCase):
     @timeit
     def test_timeit(self):
         time.sleep(2)
+
+    @timeit
+    def test_timeit(self):
+        time.sleep(0.0001)
